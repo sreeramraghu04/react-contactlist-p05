@@ -58,7 +58,7 @@ function App() {
   return (
     <div className="min-h-screen bg-gray-100 p-6">
       <h1 className="text-4xl font-bold text-center text-violet-500 mb-8 underline">
-        Contact List
+        Contact-List.
       </h1>
 
       <div className="max-w-4xl mx-auto mb-6">
