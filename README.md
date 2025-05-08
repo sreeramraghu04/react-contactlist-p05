@@ -1,4 +1,4 @@
-# 📇 Contact List App
+# Contact List App
 
 A simple contact list manager built with **React** and styled using **Tailwind CSS**. This app allows users to:
 
