@@ -46,4 +46,4 @@ A simple contact list manager built with **React** and styled using **Tailwind C
 
 ## Demo Link
 
-[Live Demo](https://r-react-contactlistapp.netlify.app/)
+[Live Demo](https://r-react-contactlistapp-p05.netlify.app/)
